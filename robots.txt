@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a.yyjthzp2.cn/sitemap.xml
